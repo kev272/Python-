@@ -12,4 +12,4 @@ letter="c"
 if letter  in "aeiou":
     print(letter, "is vowel")
 else:
-    print(letter, "is not vowel")
+    print(letter, "is a consonant ")
